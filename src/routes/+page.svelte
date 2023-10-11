@@ -17,9 +17,15 @@
 <p>
 	<a href="/contact">Contact page</a> is the same component.
 </p>
-
 <p>
 	The component is imported here from <code>$lib/components</code>.
 </p>
-
+<h2>This doesn't submit anywhere 😅</h2>
+<p>
+	If you want to contact me go to the <a
+		href="https://scottspence.com/contact"
+	>
+		contact page
+	</a> on my site.
+</p>
 <ContactForm />

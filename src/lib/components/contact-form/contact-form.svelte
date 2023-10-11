@@ -50,3 +50,5 @@
 		<ContactFormFields {handle_result} />
 	</div>
 {/if}
+
+<div class="divider my-20" />

@@ -10,4 +10,13 @@
 
 <p>Go back to the <a href="/">home</a> page.</p>
 
+<h2>This doesn't submit anywhere 😅</h2>
+<p>
+	If you want to contact me go to the <a
+		href="https://scottspence.com/contact"
+	>
+		contact page
+	</a> on my site.
+</p>
+
 <ContactForm />
