@@ -8,7 +8,7 @@ SvelteKit app.
 Copy `example.env` to `.env` and fill in the values.
 
 ```bash
-cp example.env .envvvv
+cp example.env .env
 ```
 
 ## Environment variables
