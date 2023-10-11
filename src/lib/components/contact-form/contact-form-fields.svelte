@@ -39,8 +39,8 @@
 		required
 		class="input"
 	/>
-	<!-- honeypot -->
-	<input type="text" name="subject" id="subject" class="hidden" value=""/>
+	<!-- honeypot, the value should be empty -->
+	<input type="text" name="subject" id="subject" class="hidden" value="speak"/>
 	<label for="reason" class="label">
 		<span class="label-text">Reason</span>
 	</label>
