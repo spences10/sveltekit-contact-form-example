@@ -40,7 +40,7 @@
 		class="input"
 	/>
 	<!-- honeypot -->
-	<input type="text" name="subject" id="subject" class="hidden" value="speak"/>
+	<input type="text" name="subject" id="subject" class="hidden" value=""/>
 	<label for="reason" class="label">
 		<span class="label-text">Reason</span>
 	</label>
