@@ -51,4 +51,4 @@
 	</div>
 {/if}
 
-<div class="divider my-20" />
+<div class="divider my-20"></div>
