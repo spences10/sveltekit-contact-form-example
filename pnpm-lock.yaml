@@ -60,8 +60,8 @@ importers:
         specifier: ^26.1.0
         version: 26.1.0
       nodemailer:
-        specifier: ^6.10.1
-        version: 6.10.1
+        specifier: ^7.0.0
+        version: 7.0.3
       prettier:
         specifier: ^3.5.3
         version: 3.5.3
@@ -1515,8 +1515,8 @@ packages:
     resolution: {integrity: sha512-8Ofs/AUQh8MaEcrlq5xOX0CQ9ypTF5dl78mjlMNfOK08fzpgTHQRQPBxcPlEtIw0yRpws+Zo/3r+5WRby7u3Gg==}
     engines: {node: '>= 0.6'}
 
-  nodemailer@6.10.1:
-    resolution: {integrity: sha512-Z+iLaBGVaSjbIzQ4pX6XV41HrooLsQ10ZWPUehGmuantvzWoDVBnmsdUcOIDM1t+yPor5pDhVlDESgOMEGxhHA==}
+  nodemailer@7.0.3:
+    resolution: {integrity: sha512-Ajq6Sz1x7cIK3pN6KesGTah+1gnwMnx5gKl3piQlQQE/PwyJ4Mbc8is2psWYxK3RJTVeqsDaCv8ZzXLCDHMTZw==}
     engines: {node: '>=6.0.0'}
 
   nwsapi@2.2.18:
@@ -3482,7 +3482,7 @@ snapshots:
 
   negotiator@1.0.0: {}
 
-  nodemailer@6.10.1: {}
+  nodemailer@7.0.3: {}
 
   nwsapi@2.2.18: {}
 
