@@ -27,7 +27,7 @@
 		"@tailwindcss/vite": "^4.1.12",
 		"@testing-library/jest-dom": "^6.7.0",
 		"@testing-library/svelte": "^5.2.8",
-		"@types/nodemailer": "^6.4.17",
+		"@types/nodemailer": "^7.0.0",
 		"daisyui": "^5.0.50",
 		"eslint": "^9.33.0",
 		"eslint-config-prettier": "^10.1.8",
